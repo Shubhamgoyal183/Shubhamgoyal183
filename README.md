@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamgoyal183&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgoyal183" /> </p>
-- 👨‍💻 All of my projects are available at [Portfolio](https://shubhamgoyal16.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](shubhamgoyal16.netlify.app)
 
 - 🔭 I’m currently working on [Wanderlust](https://github.com/Shubhamgoyal183/MAJORPROJECT.git)
 
