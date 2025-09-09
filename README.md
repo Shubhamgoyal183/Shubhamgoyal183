@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shubhamgoyal16.netlify.app/)
 
-- 🔭 I’m currently working on [Wanderlust](https://github.com/Shubhamgoyal183/MAJORPROJECT.git)
-
 - 🌱 I’m currently learning **Mern Stack**
 
 - 👯 I’m looking to collaborate on **Wanderlust**
